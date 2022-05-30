@@ -59,7 +59,7 @@ var carta4 = {
 
 var carta5 = {
   nome: "Han Solo",
-  avatar: "https://static.wikia.nocookie.net/ptstarwars/images/0/01/Hansoloprofile.jpg/revision/latest?cb=20120222133702",
+  avatar: "https://www.comboinfinito.com.br/principal/wp-content/uploads/2017/02/Han-solo-movie.jpg",
   atributos: {
     attack: 3,
     defense: 4,
